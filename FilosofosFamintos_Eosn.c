@@ -5,8 +5,8 @@
 #include <sched.h>
 #include <unistd.h>
 
-/*
-    @author Éllen Oliveira Silva Neves
+/**
+    @author Éllen Neves
     GitHub: https://github.com/Eosn
 */
 
